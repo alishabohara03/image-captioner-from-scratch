@@ -3,7 +3,9 @@
 An end-to-end Image Caption Generation System built entirely from scratch without using any pretrained models.
 This project combines Machine Learning, Deep Learning, FastAPI, PostgreSQL, and a modern React frontend to generate natural-language captions for images.
 
-The primary goal of this project is to understand and design a complete ML workflow — from dataset preparation to model training to a full-stack deployment-ready system.
+<img width="1410" height="769" alt="Screenshot 2025-12-05 113725" src="https://github.com/user-attachments/assets/1faa3fd9-c7ed-41f3-993f-689d99aa2f7e" />
+<img width="899" height="2218" alt="localhost_5173_ (1)" src="https://github.com/user-attachments/assets/1712108a-e2e1-46f3-ad7c-e0fa43579ad6" />
+
 
 🚀 Tech Stack Overview
 🔧 Frontend
